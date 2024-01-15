@@ -1,0 +1,55 @@
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+4
+**** Start of Tokenizing words Demo ***
+Type a few words separated by space (q - to quit):
+Hello my name is Harsahbaj Singh its my pleasure to work with you guys
+Word #1 is 'Hello'
+Word #2 is 'my'
+Word #3 is 'name'
+Word #4 is 'is'
+Word #5 is 'Harsahbaj'
+Word #6 is 'Singh'
+Word #7 is 'its'
+Word #8 is 'my'
+Word #9 is 'pleasure'
+Word #10 is 'to'
+Word #11 is 'work'
+Word #12 is 'with'
+Word #13 is 'you'
+Word #14 is 'guys'
+Type a few words separated by space (q - to quit):
+Wehavethebestprofessor
+Word #1 is 'Wehavethebestprofessor'
+Type a few words separated by space (q - to quit):
+"harsahbaj"
+Word #1 is '"harsahbaj"'
+Type a few words separated by space (q - to quit):
+"oh my god"
+Word #1 is '"oh'
+Word #2 is 'my'
+Word #3 is 'god"'
+Type a few words separated by space (q - to quit):
+"'I am seneca proud'"
+Word #1 is '"'I'
+Word #2 is 'am'
+Word #3 is 'seneca'
+Word #4 is 'proud'"'
+Type a few words separated by space (q - to quit):
+q
+*** End of Tokenizing wordsáDemoá***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+0
+
+D:\Seneca\CPR 101\Final project\tokenizing.c\x64\Debug\tokenizing.c.exe (process 27860) exited with code 0.
+Press any key to close this window . . .

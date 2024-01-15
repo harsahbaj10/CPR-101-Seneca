@@ -1,0 +1,4 @@
+﻿  cpr 101 black box.c
+D:\Seneca\CPR 101\Activity 10\Cpr101 Blackbox\cpr 101 black box.c(11,151): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Seneca\CPR 101\Activity 10\Cpr101 Blackbox\cpr 101 black box.c(21,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Cpr101 Blackbox.vcxproj -> D:\Seneca\CPR 101\Activity 10\Cpr101 Blackbox\x64\Debug\Cpr101 Blackbox.exe

@@ -1,0 +1,43 @@
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+4
+**** Start of Tokenizing words Demo ***
+Type a few words separated by space (q - to quit):
+very fast
+Word #1 is 'very'
+Word #2 is 'fast'
+Type a few words separated by space (q - to quit):
+okay boss;
+Word #1 is 'okay'
+Word #2 is 'boss;'
+Type a few words separated by space (q - to quit):
+q
+*** End of Tokenizing wordsáDemoá***
+
+*** Start of Tokenizing Phrases Demo ***
+Type a few phrases separated by comma (q to quit):
+very, fast
+Phrase #1 is 'very'
+Phrase #2 is ' fast'
+Type a few phrases separated by comma (q to quit):
+okay, boss;
+Phrase #1 is 'okay'
+Phrase #2 is ' boss;'
+Type a few phrases separated by comma (q to quit):
+q
+*** End of Tokenizing Phrases Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+0
+
+D:\Seneca\CPR 101\Final project\tokenizing.c\x64\Debug\tokenizing.c.exe (process 17136) exited with code 0.
+Press any key to close this window . . .
